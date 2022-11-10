@@ -1,0 +1,38 @@
+.header-bottom a {
+    font-size: 11px;
+}
+
+.first-div-txt {
+    padding-top: 10px;
+}
+
+.first-div-txt-inner h1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.first-div-txt-inner h6 {
+    font-size: 12px;
+}
+
+.first-div-txt-inner-btn {
+    margin-bottom: 40px;
+}
+
+.first-div-txt-inner-btn a {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.companies {
+    margin-top: -30px;
+    gap: 15px;
+}
+
+.companies h6 {
+    font-size: 9px;
+}
+
+.footer-hr {
+    width: 400px;
+}
