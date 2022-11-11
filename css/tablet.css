@@ -14,6 +14,10 @@
     visibility: hidden;
 }
 
+.first-div-bottom-txt {
+    display: none;
+}
+
 main {
     grid-template-columns: 2% auto 2%;
 }
